@@ -1,4 +1,4 @@
-name: win 10 RDP tailscale
+name: win 10
 
 on:
   workflow_dispatch:
